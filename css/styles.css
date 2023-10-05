@@ -1,0 +1,40 @@
+/*reset*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  display: block;
+}
+/* Main Style */
+body {
+  font-family: "Roboto", sans-serif;
+  line-height: 1.7rem;
+}
+
+p {
+  /* margin-top: 10px;
+      margin-bottom: 10px; */
+  margin: 10px 0;
+}
+#navbar .logo {
+  padding-top: 20px;
+  float: left;
+}
+#navbar ul {
+  float: right;
+}
+#navbar ul li {
+  /* display: inline; */
+  float: left;
+}
+#navbar ul li a {
+  display: block;
+  padding: 20px;
+}
+
+#navbar {
+  display: block;
+}
+#contact-info h3 {
+  text-decoration: underline;
+}
