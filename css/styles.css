@@ -16,6 +16,10 @@ p {
       margin-bottom: 10px; */
   margin: 10px 0;
 }
+/* uitlity classes */
+.clr {
+  clear: both;
+}
 #navbar .logo {
   padding-top: 20px;
   float: left;
@@ -35,6 +39,30 @@ p {
 #navbar {
   display: block;
 }
+h2 {
+  color: #1e81b0;
+}
 #contact-info h3 {
+  text-decoration: underline;
+}
+#contact-info .container {
+  width: 1100px;
+  margin: auto;
+}
+#contact-info .container div {
+  display: inline-block;
+  padding: 45px;
+  float: right;
+}
+h3 {
+  color: blueviolet;
+}
+#navbar .logo {
+  text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
+  font-size: 50px;
+  padding-bottom: 30px;
+}
+#contact-form p {
+  font-size: 20px;
   text-decoration: underline;
 }
