@@ -66,3 +66,7 @@ h3 {
   font-size: 20px;
   text-decoration: underline;
 }
+#navbar .logo {
+  background-color: #8d22a8;
+  color: #f7c08a;
+}
