@@ -12,6 +12,8 @@ body {
 #navbar {
   font-family: Roboto, Arial, sans-serif;
   display: flex;
+  position: sticky;
+  background-color: #ffffff;
 }
 #navbar img {
   height: 33px;
